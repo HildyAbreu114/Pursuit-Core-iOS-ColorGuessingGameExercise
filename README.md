@@ -2,7 +2,7 @@
 
 Welcome Developers!  Here is your in-class exercise for today:
 
-## Overview
+## Overview.change
 
 The name of the game is generating and guessing random colors.
 
